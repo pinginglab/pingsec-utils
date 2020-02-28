@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.pingsec.dev",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "utils",
+    "packageName": "com.pingsec.dev",
+    "packageFolder": "com/pingsec/dev",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWJkMTQ4NDliYmExZDViZmVmZTFiODY2NWE0MmIwNjhlNzI3Zjk2ZTIzZDRhOGNjYzhkMmM0ZjQxMzA5YWY3Mzc5OGQ3ZmE3NjNlYjMxOGQwMDUxYzY2NGMxYTY0ZjZjNzU3MWY4ODA4MzVmNDI4NjMzOTdhNDIwODZjMWQzYjg=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1582895252192,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
