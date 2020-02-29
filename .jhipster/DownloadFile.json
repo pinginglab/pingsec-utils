@@ -1,0 +1,30 @@
+{
+    "name": "DownloadFile",
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "downloadTime",
+            "fieldType": "Instant"
+        },
+        {
+            "fieldName": "count",
+            "fieldType": "Integer"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200229140943",
+    "entityTableName": "download_file",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "clientRootFolder": "utils",
+    "applications": "*",
+    "angularJSSuffix": "util",
+    "microserviceName": "utils"
+}
